@@ -1,0 +1,2 @@
+config/hub filter=crypt diff=crypt
+ssh/known_hosts filter=crypt diff=crypt
