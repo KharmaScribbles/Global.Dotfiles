@@ -1,7 +1,7 @@
 alias tb="nc kharma.pw 9999"
 
 # Dotfiles
-alias dot="dotfiles -r $HOME/Ter-dot-files"
+alias dot="dotfiles -r $HOME/Dotfiles"
 
-#TERMUX CLIPBOARD SET/GET
-alias tclip="termux-clipboard-set"
+#####TERMUX CLIPBOARD SET/GET
+#####alias tclip="termux-clipboard-set"
