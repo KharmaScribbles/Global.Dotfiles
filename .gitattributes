@@ -1,2 +1,3 @@
 irssi/config filter=crypt diff=crypt
 irssi/configc filter=crypt diff=crypt
+*.gpg diff=blackbox

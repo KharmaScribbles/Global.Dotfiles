@@ -1,4 +1,4 @@
-alias tb="nc kharma.pw 9999"
+alias tb=" nc kharma.pw 9999"
 
 # Dotfiles
 alias dot="dotfiles -r $HOME/Dotfiles"

@@ -1,9 +1,9 @@
 
-source ~/.antigen/antigen/antigen.zsh
+source ~/antigen.zsh
 
 antigen use oh-my-zsh
 
-#antigen bundle <<EOBUNDLES
+# antigen bundle <<EOBUNDLES
 #    # Bundles from the default repo (robbyrussell's oh-my-zsh)
 antigen bundle git
 
@@ -19,9 +19,10 @@ antigen bundle zsh-users/zsh-completions
 
 antigen bundle voronkovich/apache2
 antigen bundle joow/youtube-dl
-antigen bundle matheu/zsh-plugins explain-shell
-antigen bundle psprint/zsh-morpho
-
+#antigen bundle matheu/zsh-plugins explain-shell
+#antigen bundle psprint/zsh-morpho
+antigen bundle StackExchange/blackbox
+#
 antigen bundle git-extras
 antigen bundle git-prompt
 antigen bundle z
