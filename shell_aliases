@@ -1,7 +1,20 @@
-alias tb=" nc kharma.pw 9999"
+alias tb=" nc pb.kharma.pw 9999"
 
 # Dotfiles
 alias dot="dotfiles -r $HOME/Dotfiles"
 
 #####TERMUX CLIPBOARD SET/GET
 #####alias tclip="termux-clipboard-set"
+
+
+####%%%%%%%%########################################################
+# Install Googler 
+#sudo curl -o /usr/local/bin/googler \
+#https://raw.githubusercontent.com/jarun/googler/v3.6/googler \
+#&& sudo chmod +x /usr/local/bin/googler
+####################################################################
+
+
+alias cetc="cd /etc"
+alias edrc="micro ~/.zshrc"
+# alias source=". ~/.zshrc"

@@ -9,7 +9,8 @@ ANTIGEN_LOG=~/.config/.antigen.log
 
 #DOTFILES_REPO=~/Ter-dot-files
 #export $DOTFILES_REPO
-export EDITOR="micro"
+export EDITOR=micro
+export BROWSER=lynx
 
 
 

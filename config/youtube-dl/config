@@ -1,0 +1,8 @@
+-x
+-o "/home/Kharma/Music/LovedMusic/%(title)s.%(ext)s"
+--audio-format mp3
+-f "bestaudio"
+--metadata-from-title "%(title)s"
+--add-metadata
+--embed-thumbnail
+--ffmpeg-location /usr/bin/ffmpeg
